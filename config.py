@@ -1,4 +1,4 @@
-TIINGO_TOKEN = "7b17b288a139e59b8e5b1796307ad2d72122685c"
+TIINGO_TOKEN = "Your Tiingo token here"
 
 TICKER_ID_DICT = {
     "LMT": "b97d19b0-833c-8d8f-3a2c-157d04ea55ef-P",
